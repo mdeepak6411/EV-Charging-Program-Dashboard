@@ -1,0 +1,4 @@
+data/
+*.csv
+*.twbx
+duckdb.exe
